@@ -20,13 +20,18 @@ To run the Shopping Cart locally, follow these steps:
 Clone the repository:
 
 git clone https://github.com/AshutoshKumar0206/Ecomzy.git
+
 Navigate to the project directory:
 cd shopping-cart
+
 Install the dependencies:
 npm install
+
 Start the development server:
 npm start
+
 Open your browser and visit http://localhost:3000 to access the application.
+
 Additional Resources
 If you're new to React or need a refresher, the following resources may be helpful:
 
