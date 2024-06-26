@@ -14,10 +14,11 @@ Total Calculation: The application calculates and displays the total price of al
 
 SignUp: Users can SignUp to the website so that they can use the Dashboard. 
 
-Installation
+Installation:
 To run the Shopping Cart locally, follow these steps:
 
 Clone the repository:
+
 git clone https://github.com/AshutoshKumar0206/Ecomzy.git
 Navigate to the project directory:
 cd shopping-cart
