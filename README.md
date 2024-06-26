@@ -28,7 +28,7 @@ To run the Shopping Cart locally, follow these steps:
 ```
 2. Navigate to the project directory:
 ```bash
- cd shopping-cart
+ cd Ecomzy
 ```
 3. Install the dependencies:
 ```bash
