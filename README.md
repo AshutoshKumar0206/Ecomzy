@@ -7,6 +7,7 @@ https://shop-at-ecomzy.netlify.app/
 Ecomzy is an ultimate online shopping destination. You can immerse yourself in a seamless and delightful shopping experience where convenience meets style.
 
 ## Features
+
 Product Listing: Users can view a list of available products, including their name, price, and an option to add them to the cart.
 
 Cart Management: Users can add products to the cart, adjust the quantity of each item, and remove items from the cart.
@@ -38,6 +39,7 @@ To run the Shopping Cart locally, follow these steps:
  npm start
 ```
 5. Open your browser and visit http://localhost:3000 to access the application.
+
 ## Additional Resources
 
 If you're new to React or need a refresher, the following resources may be helpful:
@@ -62,7 +64,6 @@ Contributions are welcome if you'd like to enhance the functionality or improve 
 4. Push to the branch: git push origin my-feature-branch.
 
 5. Submit a pull request.
-
 
 
 ## Acknowledgements
