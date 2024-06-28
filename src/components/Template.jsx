@@ -39,7 +39,6 @@ export default function Template({ title, desc1, desc2, image, formtype, setIsLo
             </div>
 
             <div className='relative w-11/12 max-w-[450px]'>
-                <img src={frame} alt='Pattern' width={558} height={504} loading='lazy' />
                 <img src={image} alt='Students' width={558} height={490} loading='lazy' className='absolute -top-0.5 right-4' />
             </div>
 

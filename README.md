@@ -6,14 +6,22 @@ https://shop-at-ecomzy.netlify.app/
 
 Ecomzy is an ultimate online shopping destination. You can immerse yourself in a seamless and delightful shopping experience where convenience meets style.
 
+<img src="./src/assets/Ecomzy.png">
+
 ## Features
 Product Listing: Users can view a list of available products, including their name, price, and an option to add them to the cart.
 
 Cart Management: Users can add products to the cart, adjust the quantity of each item, and remove items from the cart.
 
+<img src="./src/assets/Cart.png">
+
 Total Calculation: The application calculates and displays the total price of all the products in the cart.
 
 SignUp: Users can SignUp to the website so that they can use the Dashboard.
+
+
+
+LogIn: Users can Login to the website by giving their credentials.
 
 
 
