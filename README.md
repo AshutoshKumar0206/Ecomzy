@@ -20,11 +20,11 @@ Total Calculation: The application calculates and displays the total price of al
 
 SignUp: Users can SignUp to the website so that they can use the Dashboard.
 
-
+<img src="./src/assets/SignUpPage.png">
 
 LogIn: Users can Login to the website by giving their credentials.
 
-
+<img src="./src/assets/LoginPage.png">
 
 ## Installation
 

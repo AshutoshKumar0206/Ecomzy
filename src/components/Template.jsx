@@ -3,7 +3,6 @@ import frameImage from "../assets/frame.png";
 import LoginForm from './LoginForm';
 import SignupForm from './SignupForm';
 import {FcGoogle} from 'react-icons/fc'
-import frame from '../assets/frame.webp';
 
 export default function Template({ title, desc1, desc2, image, formtype, setIsLoggedIn }) {
     return (
